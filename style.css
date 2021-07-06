@@ -3,6 +3,9 @@ body{
     margin: 0px;
 
  }
+ html{
+  scrol-behavior:smoth;
+ }
  h1{
      color: gray;
      font-size: 40px;
